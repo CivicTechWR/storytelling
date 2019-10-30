@@ -1,0 +1,12 @@
+---
+title: Digital Storytelling
+description: Digital storytelling
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+baseurl: "/storytelling"
+
