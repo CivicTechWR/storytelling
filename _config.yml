@@ -8,5 +8,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-baseurl: "/storytelling/"
-url: "https://civictechwr.org/"
+
