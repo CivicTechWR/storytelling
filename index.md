@@ -1,8 +1,7 @@
 ---
 title: Digital Storytelling Process
+toc: true
 ---
-
-# Digital Storytelling Process
 
 ## Toolkit
 

@@ -1,4 +1,7 @@
-# Finding Music
+---
+title: Finding Music
+permalink: /videos/music/
+---
 
 Look for music clips that are similar in length to the video you’re filming.
 An easy way to find music is through Creative Commons and Free Music libraries

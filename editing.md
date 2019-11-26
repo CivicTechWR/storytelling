@@ -1,4 +1,7 @@
-# Video Editing with OpenShot
+---
+title: Video Editing with OpenShot
+permalink: /videos/editing/
+---
 
 ## Getting Started
 

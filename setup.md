@@ -1,4 +1,7 @@
-# Setting up for Shooting
+---
+title: Setting up for Shooting
+permalink: /videos/setup/
+---
 
 ## Backdrop
 

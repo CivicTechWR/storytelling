@@ -1,6 +1,15 @@
-# Appendix A: Story Outlines
+---
+title: Story Outlines
+permalink: /stories/outlines/
+toc: true
+---
 
-## Getting to Know You Questions
+## Getting to know you
+
+A simple way of finding out more about an individual, organization or campaign.
+Scripts consist of simple questions (see list of sample questions in Appendix A: Story Outlines)
+that are answered by the person(s) on camera. Questions are often displayed as titles in the video
+(see Titling under Video Editing section)
 
 * If you could meet anyone in Canada, who would it be?
 * If you could go anywhere in Canada, where would you go?
@@ -23,7 +32,20 @@
 * Is there anything Canadians do that you find strange?
 * What message would you like to send to Canadians?
 
-## Overcoming Obstacles Questions
+## Common denominator, plots in common, binding issues, building a case
+
+* What was the first thing you noticed about a friend that was different from you?
+* How did you develop a friendship with that person?
+* Do you think you have more in common than not with this friend?
+* What are some things that you think bring everyone together?
+* Are differences important to recognize?
+* Should differences be ignored?
+* What is the biggest thing you have in common with a friend?
+* What similarities to your home country did you notice about Canada?
+* Do you feel more comfortable when something is familiar to you?
+* Are similarities always a good thing?
+
+## Overcoming obstacles
 
 * What obstacles have you faced?
 * What is the best way to approach an obstacle?
@@ -34,7 +56,14 @@
 * What was the most valuable thing you’ve learned overcoming an obstacle?
 * Are there some obstacles that cannot be overcome?
 
-## Time Lapse Questions
+## Traditional Narrative Arc
+
+## Time lapse or Whatever happened to?
+
+A quick way of talking about the history of a place, person or idea.
+Script can consist of simple questions (see list of sample questions in Appendix A: Story Outlines)
+that can be answered by individuals on camera or a narrator.
+Questions are either displayed as titles or asked by a narrator.
 
 * Where was this thing created?
 * When was the thing created?
@@ -50,7 +79,7 @@
 * Have the goals changed drastically from when it started?
 * How many people are at this thing now?
 
-## Unpacking an Issue Questions
+## Unpacking an issue
 
 * What issue are you dealing with?
 * Is there a solution for this issue?
@@ -61,15 +90,6 @@
 * How have you grown through this experience?
 * How can you prevent an issue from becoming bigger?
 
-## Common Denominator Questions
+## Making an Ask
 
-* What was the first thing you noticed about a friend that was different from you?
-* How did you develop a friendship with that person?
-* Do you think you have more in common than not with this friend?
-* What are some things that you think bring everyone together?
-* Are differences important to recognize?
-* Should differences be ignored?
-* What is the biggest thing you have in common with a friend?
-* What similarities to your home country did you notice about Canada?
-* Do you feel more comfortable when something is familiar to you?
-* Are similarities always a good thing?
+

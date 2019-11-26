@@ -1,4 +1,7 @@
-# Publishing the Video
+---
+title: Publishing the Video
+permalink: /videos/publishing/
+---
 
 * Go to https://www.youtube.com
 * Create an account if you do not already have one

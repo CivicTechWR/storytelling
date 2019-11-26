@@ -1,4 +1,7 @@
-# Toolkit
+---
+title: Toolkit
+permalink: /start/toolkit/
+---
 
 ## Asset Folder
 

@@ -1,4 +1,7 @@
-# Finding Images
+---
+title: Finding Images
+permalink: /videos/images/
+---
 
 There are libraries of free images available online
 

@@ -1,4 +1,7 @@
-# Video Capture
+---
+title: Video Capture
+permalink: /videos/capture/
+---
 
 ## Windows 10
 

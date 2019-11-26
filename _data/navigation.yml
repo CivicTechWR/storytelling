@@ -1,0 +1,35 @@
+main:
+  - title: Get Started
+    url: /start/
+  - title: Make Videos
+    url: /videos/
+  - title: Tell Stories
+    url: /stories/
+  - title: CivicTechWR
+    url: https://civictechwr.org
+sidebar:
+  - title: Get Started
+    children:
+      - title: Toolkit
+        url: /start/toolkit/
+      - title: Write a Script
+        url: /start/script/
+  - title: Make Videos
+    children:
+      - title: Setting Up
+        url: /videos/setup/
+      - title: Video Capture
+        url: /videos/capture/
+      - title: Finding Music
+        url: /videos/music/
+      - title: Finding Images
+        url: /videos/images/
+      - title: Video Editing
+        url: /videos/editing/
+      - title: Publishing
+        url: /videos/publishing/
+  - title: Tell Stories
+    children:
+      - title: Story Outlines
+        url: /stories/outlines/
+

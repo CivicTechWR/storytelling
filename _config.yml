@@ -2,11 +2,24 @@
 title: Digital Storytelling
 description: Digital storytelling
 
+baseurl: "/storytelling"
+
 exclude:
   - README.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
 
-baseurl: "/storytelling"
+plugins:
+  - jekyll-include-cache
 
+remote_theme: "mmistakes/minimal-mistakes"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "sidebar"
