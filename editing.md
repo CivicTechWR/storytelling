@@ -43,6 +43,8 @@ permalink: /videos/editing/
 * Change the font and text colour to whatever you like, but try to keep the font size reasonable, and do not change the background colour once you’re happy with it, hit save
 * Repeat the last two steps for all of the remaining subtitles
 
+## Adding images
+
 ## Smashing it all Together
 
 * Highlight all your assets under Project Files (outside of your Music and Subtitles)
@@ -71,3 +73,6 @@ permalink: /videos/editing/
 * Under Target select YouTube HD
 * Use the default video profile, then click export video
 
+
+
+[Next](/storytelling/videos/publishing/)

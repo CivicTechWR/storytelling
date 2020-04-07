@@ -11,3 +11,6 @@ permalink: /videos/publishing/
 * After this the upload page will appear, give the video a title, put in a description, but leave the tags and everything else as is
 * Once it’s all done, click “Publish”
 
+
+
+[Next](/storytelling/stories/script/)
