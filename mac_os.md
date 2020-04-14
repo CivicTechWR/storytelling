@@ -3,6 +3,8 @@ title: Mac OS
 permalink: /platforms/mac_os/
 ---
 
+## Recording on a Mac OS-powered computer
+
 * Open QuickTime Player
 * In the top left corner, select File > New Movie Recording
 * Using the red start/stop button record video

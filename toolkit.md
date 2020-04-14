@@ -25,3 +25,30 @@ Having a clock or timer visible while you’re shooting will make sure that your
 
 If this is your first video, download and install OpenShot from: https://www.openshot.org/download/
 
+
+### Get started now
+
+Choose a platform and we'll show you the rest.
+
+<div class="platform-list-container">
+  <div class="platform-list-item">
+    <a href="/storytelling/platforms/mac_os">
+      Mac OS
+    </a>
+  </div>
+  <div class="platform-list-item">
+    <a href="/storytelling/platforms/ios">
+      iOS
+    </a>
+  </div>
+  <div class="platform-list-item">
+    <a href="/storytelling/platforms/windows">
+      Windows
+    </a>
+  </div>
+  <div class="platform-list-item">
+    <a href="/storytelling/platforms/android">
+        Android
+    </a>
+  </div>
+</div>

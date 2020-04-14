@@ -3,6 +3,8 @@ title: Windows 10
 permalink: /platforms/windows/
 ---
 
+## Recording on a Windows-powered computer
+
 * Open Camera App
 * Select Video
 * Using the start/stop button record video

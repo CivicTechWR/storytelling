@@ -14,30 +14,3 @@ For our current iteration, we’ve targeted a 2 minute video because of the 30 m
 *Please note: the process will take longer the first time because of the time needed to download the software.
 
 Click [here](/storytelling/start/toolkit/) to get started.
-
-Choose a platform and we'll show you the rest.
-
-### Platforms
-
-<div class="platform-list-container">
-  <div class="platform-list-item">
-    <a href="/storytelling/platforms/mac_os">
-      Mac OS
-    </a>
-  </div>
-  <div class="platform-list-item">
-    <a href="/storytelling/platforms/ios">
-      iOS
-    </a>
-  </div>
-  <div class="platform-list-item">
-    <a href="/storytelling/platforms/windows">
-      Windows
-    </a>
-  </div>
-  <div class="platform-list-item">
-    <a href="/storytelling/platforms/android">
-        Android
-    </a>
-  </div>
-</div>

@@ -3,7 +3,16 @@ title: Android
 permalink: /platforms/android/
 ---
 
-### Exporting from an Android Device
+## Recording on an Android device
+
+* Find the camera app on your device’s home screen
+* Make sure the device you are using has a rear-facing camera
+* Open the camera app, and switch the mode from photo to recording (The photo mode will have a camera icon, while the recording mode has a red circle)
+* Press the red circle and the recording will start
+* Once you are finished, press the circle again and your recording is now saved.
+
+
+## Exporting from an Android device
 
 * Connect your device to the computer/laptop using a USB cable, usually your device’s charging cable will work
 * Your device should ask whether you want to allow the PC to access the files, select the option to “allow”
