@@ -5,9 +5,10 @@ permalink: /platforms/android/
 
 ## Recording on an Android device
 
+_Note_: Before recording, make sure your device has a rear-facing camera.
+
 * Find the camera app on your device’s home screen
-* Make sure the device you are using has a rear-facing camera
-* Open the camera app, and switch the mode from photo to recording (The photo mode will have a camera icon, while the recording mode has a red circle)
+* Switch the mode from photo to recording (The photo mode will have a camera icon, while the recording mode has a red circle)
 * Press the red circle and the recording will start
 * Once you are finished, press the circle again and your recording is now saved.
 
