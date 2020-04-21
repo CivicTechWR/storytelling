@@ -19,3 +19,6 @@ permalink: /videos/setup/
 * Test the mic on your phone/computer vs. earbuds and use what sounds best
 * USB mics are an inexpensive upgrade ($20-$40) if you want better sound
 
+
+
+[Next](/storytelling/start/toolkit/)

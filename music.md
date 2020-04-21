@@ -19,7 +19,7 @@ Or you can search according to the duration of the track, which is a good idea t
 
 ## [Bensound](https://www.bensound.com/)
 
-## [Free Music Archive](http://freemusicarchive.org/)  
+## [Free Music Archive](http://freemusicarchive.org/)
 
 The songs at the Free Music Archive are mostly different types of Creative Commons licenses.
 Some are for non-commercial use only, others require attribution, and so on.
@@ -27,9 +27,12 @@ Please make sure to attribute and conform to all required guidelines.
 
 ## [Incompetech](https://incompetech.com/music/royalty-free/collections.php)
 
-## [SoundCloud](https://soundcloud.com/search/sounds/?filter.license=to_share)  
+## [SoundCloud](https://soundcloud.com/search/sounds/?filter.license=to_share)
 
 SoundCloud can be an excellent source of music to use for videos.
 You can filter your search to show tracks that are licensed for reuse.
 Type in “background music,” or try something like “uplifting background music,” “ambient beat,” etc.
 
+
+
+[Next](/storytelling/videos/images/)

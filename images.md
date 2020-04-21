@@ -16,6 +16,9 @@ Content under open content licenses may be reused without any need to contact th
 ## [Creative Commons](https://search.creativecommons.org/)
 
 You can use CC-licensed materials as long as you follow the license conditions.
-One condition of all CC licenses is attribution. 
+One condition of all CC licenses is attribution.
 How to give attribution: https://creativecommons.org/use-remix/get-permission/
 
+
+
+[Next](/storytelling/videos/editing/)
