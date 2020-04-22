@@ -1,6 +1,6 @@
 main:
   - title: Get Started
-    url: /start/
+    url: /videos/setup/
   - title: Make Videos
     url: /videos/
   - title: Tell Stories
@@ -10,16 +10,22 @@ main:
 sidebar:
   - title: Get Started
     children:
-      - title: Toolkit
-        url: /start/toolkit/
-      - title: Write a Script
-        url: /start/script/
-  - title: Make Videos
-    children:
       - title: Setting Up
         url: /videos/setup/
-      - title: Video Capture
-        url: /videos/capture/
+      - title: Toolkit
+        url: /start/toolkit/
+  - title: Video Capture
+    children:
+      - title: Mac OS
+        url: /platforms/mac_os/
+      - title: iOS
+        url: /platforms/ios/
+      - title: Windows
+        url: /platforms/windows/
+      - title: Android
+        url: /platforms/android/
+  - title: Make Videos
+    children:
       - title: Finding Music
         url: /videos/music/
       - title: Finding Images
@@ -30,6 +36,9 @@ sidebar:
         url: /videos/publishing/
   - title: Tell Stories
     children:
+      - title: Write a Script
+        url: /stories/script/
       - title: Story Outlines
         url: /stories/outlines/
-
+      - title: Curated music
+        url: /stories/curated_music/
