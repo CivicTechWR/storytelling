@@ -92,4 +92,18 @@ Questions are either displayed as titles or asked by a narrator.
 
 ## Making an Ask
 
+An ask can be many things. An ask can raise money, bring in volunteers for your organization or project, or you might even be looking for technical help. It is critical that your ask should be well defined. If you can’t give specifics about what, why, how, where and when, the odds of your ask being successful decrease dramatically. Here is a list of questions you should try to answer in your script:
 
+* Why should we care?
+* Who are we helping?
+* How are we helping?
+* What is needed?
+* How much is needed?
+* Where is it needed?
+* When is it needed?
+* If the ask is successful, how will that change you, your organization or your client’s life?
+* How will you let us know if you have been successful?
+
+
+
+[Next](/storytelling/stories/curated_music/)
